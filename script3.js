@@ -7,5 +7,5 @@ let celsius = ((temperature - 32) * 5) / 9;
 
 console.log("Temperature convert into celsius is  : " + celsius);
 
-// console.log("The type of the celsius is : " , typeof(celsius));
+console.log("The type of the celsius is : " , typeof(celsius));
 

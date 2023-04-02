@@ -3,7 +3,7 @@
 
 let temperature = 72;
 
-let celsius = ((temperature - 32) * 5) / 9;
+let celsius =  prompt(((temperature - 32) * 5) / 9);
 
 document.write("Temperature convert into celsius is  : " + celsius);
 
